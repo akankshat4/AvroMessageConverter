@@ -1,0 +1,4 @@
+com\mykidong\domain\event\schema\BaseProperties.class
+com\mykidong\domain\event\schema\BaseProperties$Builder.class
+com\mykidong\domain\event\schema\PageViewEvent.class
+com\mykidong\domain\event\schema\PageViewEvent$Builder.class
