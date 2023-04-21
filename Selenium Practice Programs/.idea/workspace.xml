@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac8a6c3c-e2c2-430c-94cd-7b946d4ebd59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/src/main/java/classes/functionalInterface/test/TestConsumerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/feature/ScreenshotOfFailedCases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/stepDefinition/ScreenshotOfFailedCasesStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/src/test/java/testClasses/RestAssuredTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/src/test/java/testClasses/RestAssuredTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/src/test/java/testClasses/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/src/test/java/testClasses/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/target/test-classes/testClasses/RestAssuredTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/target/test-classes/testClasses/RestAssuredTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/target/test-classes/testClasses/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API Testing Practice/RestAssuredTestingPractice/target/test-classes/testClasses/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/classes/TestProductComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/classes/TestSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/classes/TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/classes/consumer/ForEachExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/classes/consumer/ForEachExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/collectionObjects/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA Practice Programs/JAVA8Features/target/classes/functionalInterfaces/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/feature/docStringExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/feature/docStringExample.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/stepDefinition/DatTableListOfListExampleStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/src/test/java/stepDefinition/DatTableListOfListExampleStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/target/cucumber-report/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/test-classes/runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/target/test-classes/runner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/test-classes/stepDefinition/DatTableListOfListExampleStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberKeywordExamples/target/test-classes/stepDefinition/DatTableListOfListExampleStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberKeywordExamples/target/test-classes/utility/Hooks.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2607Hl0JeFcPwUigmq3tuLEJtIv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CucumberKeywordsExample/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\Study\Programming\Selenium Practice Programs\CucumberKeywordsExample\src\test\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac8a6c3c-e2c2-430c-94cd-7b946d4ebd59" name="Changes" comment="" />
+      <created>1646548570925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646548570925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="Module 1">
+        <!--<groups>
+            <run>
+                <exclude name="Group1"></exclude>
+            </run>
+        </groups>-->
+        <parameter name="emailid" value="tester789@gmail.com"/>
+        <classes>
+            <class name="sanityTestClasses.SanityTestSet1">
+            </class>
+        </classes>
+    </test>
+    <test name="Module 2">
+        <parameter name="emailid" value="tester789@gmail.com"/>
+        <classes>
+            <class name="regressionTestClasses.RegressionTestClass1">
+                <!--<methods>
+                    <include name="test1RegressionSuite"/>
+                    <exclude name="test2RegressionSuite"/>
+                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

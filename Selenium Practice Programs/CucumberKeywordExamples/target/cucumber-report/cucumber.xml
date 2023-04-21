@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="8" time="7.577">
+    <testcase classname="This test covers how to capture screenshot of Failed case" name="Screenshot of Failed Case" time="6.712">
+        <failure message="" type="java.lang.AssertionError">
+            <![CDATA[Given Launch browser window.................................................passed
+When Open google.co.in......................................................passed
+Then fail the scenario and capture the screenshot...........................failed
+
+StackTrace:
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.fail(Assert.java:96)
+	at stepDefinition.ScreenshotOfFailedCasesStepDefinition.fail_the_scenario_and_capture_the_screenshot(ScreenshotOfFailedCasesStepDefinition.java:37)
+	at ✽.fail the scenario and capture the screenshot(file:///C:/Users/HP/Documents/Study/Programming/Selenium%20Practice%20Programs/CucumberKeywordExamples/src/test/java/feature/ScreenshotOfFailedCases.feature:5)
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Test background keyword of cucumber" name="Search the product and add the product to the user basket" time="0.037">
+        <system-out>
+            <![CDATA[Given I navigate to the log-in page.........................................passed
+When I submit username and password.........................................passed
+Then I should be logged in..................................................passed
+Given User search for lenovo laptop.........................................passed
+When Add first laptop from search results to the basket.....................passed
+Then User basket should display the added item..............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Test background keyword of cucumber" name="Navigate to the product and add the same product to the user basket" time="0.019">
+        <system-out>
+            <![CDATA[Given I navigate to the log-in page.........................................passed
+When I submit username and password.........................................passed
+Then I should be logged in..................................................passed
+Given User navigate for Lenovo laptop.......................................passed
+When Add laptop to the user basket..........................................passed
+Then user basket should display the added item..............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To test data tables as list of map" name="DT2 Datatable Example" time="0.036">
+        <system-out>
+            <![CDATA[Given DT2 User is on home page..............................................passed
+When DT2 User navigates to log-in page......................................passed
+And DT2 User enters credentials to login....................................passed
+Then DT2 login success message displayed successfully.......................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To test data tables as list of list" name="Successful log in using valid credentials" time="0.026">
+        <system-out>
+            <![CDATA[Given User is on home page..................................................passed
+When User navigates to log-in page..........................................passed
+And User enters credentials to login........................................passed
+Then login success message displayed successfully...........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="As ecommerce store owner," name="Fill in contact us form" time="0.019">
+        <system-out>
+            <![CDATA[Given I am on home page.....................................................passed
+And I follow "Contact Us"...................................................passed
+When I fill "email address" with "abc@gmail.com"............................passed
+Then I should receive email from customer...................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To validate the scenario outline keyword" name="To validate the calculator function" time="0.023">
+        <system-out>
+            <![CDATA[Given There are 12 cucumbers................................................passed
+When I eat 5 cucumbers......................................................passed
+Then I should have 7 cucumbers..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To validate the scenario outline keyword" name="To validate the calculator function 2" time="0.005">
+        <system-out>
+            <![CDATA[Given There are 20 cucumbers................................................passed
+When I eat 5 cucumbers......................................................passed
+Then I should have 15 cucumbers.............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
